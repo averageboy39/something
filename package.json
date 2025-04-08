@@ -1,0 +1,22 @@
+{
+  "name": "gibili_art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix frontend && npm run build --prefix frontend",
+    "start":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averageboy39/something.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/averageboy39/something/issues"
+  },
+  "homepage": "https://github.com/averageboy39/something#readme"
+}

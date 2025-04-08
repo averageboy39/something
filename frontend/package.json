@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.1.3",
     "emailjs": "^4.0.3",
+    "gibili_art": "file:..",
     "lucide-react": "^0.487.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
